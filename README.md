@@ -1,4 +1,4 @@
-### Welcome! My name is Graci and I am currently in the process of becoming a software developer! 
+### Welcome! My name is Graci and I am a junior software developer! 
 
 <!--
 **GraciD1/GraciD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
